@@ -46,11 +46,12 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
-  font-size: 7rem;
+  font-family: "Candara", serif;
+  font-size: 5rem;
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  color: #344E41;
 }
 
 h2 {
@@ -58,12 +59,14 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
+  color: #344E41;
 }
 
 h3 {
   font-weight: 400;
   font-size: 1.25rem;
   margin: 0;
+  color: #3A5A40;
 }
 
 p {
@@ -71,6 +74,7 @@ p {
   line-height: 1.5;
   margin-bottom: 0;
   font-weight: 300;
+  color: #588157;
 }
 
 p.large {
@@ -90,16 +94,16 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: black;
 }
 
 a {
-  color: black;
+  color: #344E41;
   text-decoration: none;
 }
 
 a:hover {
-  color: #4e567e;
+  color: #588157;
 }
 
 .container {
@@ -122,6 +126,7 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+  color: black;
 }
 
 
@@ -137,3 +142,5 @@ html {
     transform: translateX(0);
   }
 }
+
+/* Make a h6 definition tha makes it so all of them are medium bright green*/

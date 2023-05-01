@@ -70,6 +70,7 @@ const About = () => {
             fontSize: "1.25rem",
             margin: "2rem 3rem",
             gap: "3rem",
+            color: "#344E41",
           }}
         >
           {skillsList.map((skill) => (
