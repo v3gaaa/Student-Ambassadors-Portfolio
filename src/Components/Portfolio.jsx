@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Python Automation Challenge",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Competition on network automation hosted by Baxter, where I came 4th. Utilized python and the Netmiko library to make changes to the interfaces and automate the network.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Virtual Assistant",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a virtual assistant as a side project to manage my PC. It can open applications, search the web, and more.",
+    url: "https://github.com/v3gaaa/Virtual-Assistant--Jules-",
   },
   {
-    title: "My Resume Site",
+    title: "E-commerce simulator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created an E-commerce simulator in C++, implementing object-oriented programming principles to ensure code modularity and reusability.",
+    url: "https://github.com/v3gaaa/ProyectoTiendaEnLinea",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "DVD Database",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed and developed an application for easy access and editing of a DVD database.",
+    url: "https://github.com/v3gaaa/DVD-Database",
   },
 ];
 
