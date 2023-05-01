@@ -40,14 +40,16 @@ section img.background {
 }
 
 h1 {
+  color: #344e41;
   margin: 0;
-  font-family: Cormorant Garamond, serif;
-  font-size: 7rem;
+  font-family: Candara, serif;
+  font-size: 5rem;
   font-weight: 400;
   line-height: .8;
 }
 
 h2 {
+  color: #344e41;
   margin: 0;
   padding-top: 1rem;
   font-size: 2rem;
@@ -55,12 +57,14 @@ h2 {
 }
 
 h3 {
+  color: #3a5a40;
   margin: 0;
   font-size: 1.25rem;
   font-weight: 400;
 }
 
 p {
+  color: #588157;
   margin-bottom: 0;
   font-size: 18px;
   font-weight: 300;
@@ -84,16 +88,16 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #000;
 }
 
 a {
-  color: #000;
+  color: #344e41;
   text-decoration: none;
 }
 
 a:hover {
-  color: #4e567e;
+  color: #588157;
 }
 
 .container {
@@ -116,6 +120,7 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+  color: #000;
 }
 
 html {
